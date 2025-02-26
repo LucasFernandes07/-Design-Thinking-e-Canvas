@@ -38,3 +38,5 @@ Desenvolvimento de um MVP (Produto Mínimo Viável): Lançar uma versão inicial
 Teste beta com grupos de usuários: Convidar um grupo de usuários para testar o aplicativo em situações reais, coletando feedback sobre a interface, usabilidade e a eficácia das sugestões de pausas e atividades.
 Análise de dados e ajustamentos: Monitorar o comportamento dos usuários no aplicativo para entender como eles interagem com a ferramenta e ajustar as funcionalidades de acordo com os padrões observados.
 Avaliação de impacto: Após um período de uso, avaliar se houve uma melhoria no equilíbrio entre vida pessoal e profissional e um aumento na produtividade dos usuários.
+
+
